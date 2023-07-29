@@ -1,0 +1,30 @@
+body{
+    background: rgb(107, 107, 241);
+    
+}
+header{
+    font:normal 15pt times new roman;
+    color:white;
+    text-align: center;
+}
+section{
+  font:normal 15pt times new roman;
+  color:brown;
+  background: white;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  
+  box-shadow: 7px 7px 10px rgba(0, 0, 0, 0.795);
+}
+footer{
+    color:white;
+    text-align: center;
+    font: normal 15pt italic;
+}
+select#flist{
+    width: 150px;
+    margin-top: 15px;
+   
+}
